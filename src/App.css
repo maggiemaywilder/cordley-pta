@@ -11,7 +11,7 @@
   text-align: center;
 }
 
-header {
+.topNav {
   background-color: var(--ku-blue);
   align-items: center;
   justify-content: center;
