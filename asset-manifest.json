@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cordley-pta/static/css/main.e2a5e9db.chunk.css",
+    "main.js": "/cordley-pta/static/js/main.e435d462.chunk.js",
+    "main.js.map": "/cordley-pta/static/js/main.e435d462.chunk.js.map",
+    "runtime-main.js": "/cordley-pta/static/js/runtime-main.be645db3.js",
+    "runtime-main.js.map": "/cordley-pta/static/js/runtime-main.be645db3.js.map",
+    "static/css/2.c1256375.chunk.css": "/cordley-pta/static/css/2.c1256375.chunk.css",
+    "static/js/2.081dd3aa.chunk.js": "/cordley-pta/static/js/2.081dd3aa.chunk.js",
+    "static/js/2.081dd3aa.chunk.js.map": "/cordley-pta/static/js/2.081dd3aa.chunk.js.map",
+    "static/js/3.5d6924a3.chunk.js": "/cordley-pta/static/js/3.5d6924a3.chunk.js",
+    "static/js/3.5d6924a3.chunk.js.map": "/cordley-pta/static/js/3.5d6924a3.chunk.js.map",
+    "index.html": "/cordley-pta/index.html",
+    "static/css/2.c1256375.chunk.css.map": "/cordley-pta/static/css/2.c1256375.chunk.css.map",
+    "static/css/main.e2a5e9db.chunk.css.map": "/cordley-pta/static/css/main.e2a5e9db.chunk.css.map",
+    "static/js/2.081dd3aa.chunk.js.LICENSE.txt": "/cordley-pta/static/js/2.081dd3aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be645db3.js",
+    "static/css/2.c1256375.chunk.css",
+    "static/js/2.081dd3aa.chunk.js",
+    "static/css/main.e2a5e9db.chunk.css",
+    "static/js/main.e435d462.chunk.js"
+  ]
+}
